@@ -1,0 +1,14 @@
+63d51bf9d482451435643dbb500f3f7a *DESCRIPTION
+257da31e4b8115ecad8cf8a2d29b5940 *LICENSE
+ae9d74bfdb53cd4725fe39b0b8cedc2b *NAMESPACE
+1dd3737b011b968e382c8a71ae2d1feb *R/compswap.R
+8317280ff406bce4e45d3b14c64422d6 *R/swaprinc.R
+b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
+38a3fa2862ecc5a124934bf14a6ad6c2 *README.md
+fe69b938e78bf2224b97774aaea5ce34 *man/compswap.Rd
+8f4aad003a999fae004ba9361f9a99d6 *man/pipe.Rd
+50152aa3fadf3923b030b308bc0922f5 *man/swaprinc.Rd
+868f78e27ea49d41c892c5f62421c7fc *man/swaprinc_loud.Rd
+dcd01fe34c75a16328088a10e218e623 *tests/testthat.R
+eafab2d904d7f933abc72408a06d49a0 *tests/testthat/test-compswap.R
+cc725c3047bedc4fe45efc18709e5747 *tests/testthat/test-swaprinc.R
